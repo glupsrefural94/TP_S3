@@ -13,5 +13,6 @@ int main(void)
 	     digit_count(power_of_two(compteur))
 	     );
     }
+  return 0;
 
 }
